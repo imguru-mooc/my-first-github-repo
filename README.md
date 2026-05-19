@@ -1,3 +1,1 @@
-# 나의 첫 Git 프로젝트
-이 프로젝트는 Git 학습용입니다.
-새로운 줄 추가
+# my-first-github-repo
